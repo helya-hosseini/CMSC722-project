@@ -13,3 +13,7 @@ the project aims to investigate how search time and task suc-
 cess rate are affected by changes in environmental parame-
 ters, such as grid size and obstacle density.
 There are 2 different implementations, deterministic and non-deterministic, each of which is implemented using gtpyhop environment.
+deterministic.py -> deterministic implementation and test cases
+non-deterministic.py -> non-deterministic domain and test cases
+the txt files are some of the results
+plot.py plot the result written in text file
