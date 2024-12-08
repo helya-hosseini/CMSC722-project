@@ -1,0 +1,18 @@
+
+RLL:Grid size 4x4 - Success rate: 100.00%, Avg execution time: 0.0002 second
+RLL:Grid size 8x8 - Success rate: 100.00%, Avg execution time: 0.0004 seconds
+RLL:Grid size 12x12 - Success rate: 100.00%, Avg execution time: 0.0005 seconds
+RLL:Grid size 16x16 - Success rate: 100.00%, Avg execution time: 0.0006 seconds
+RLL:Grid size 20x20 - Success rate: 100.00%, Avg execution time: 0.0008 seconds
+RLL:Grid size 24x24 - Success rate: 100.00%, Avg execution time: 0.0008 seconds
+RLL:Grid size 32x32 - Success rate: 100.00%, Avg execution time: 0.0028 seconds
+RLL:Grid size 36x36 - Success rate: 100.00%, Avg execution time: 0.0013 seconds
+
+RL:Grid size 4x4 - Success rate: 100.00%, Avg execution time: 0.0002 seconds
+RL:Grid size 8x8 - Success rate: 100.00%, Avg execution time: 0.0004 seconds
+RL:Grid size 12x12 - Success rate: 100.00%, Avg execution time: 0.0006 seconds
+RL:Grid size 16x16 - Success rate: 100.00%, Avg execution time: 0.0006 seconds
+RL:Grid size 20x20 - Success rate: 100.00%, Avg execution time: 0.0009 seconds
+RL:Grid size 24x24 - Success rate: 100.00%, Avg execution time: 0.0009 seconds
+RL:Grid size 32x32 - Success rate: 100.00%, Avg execution time: 0.0012 seconds
+RL:Grid size 36x36 - Success rate: 100.00%, Avg execution time: 0.0013 seconds

@@ -1,0 +1,10 @@
+
+Final Results RLL:
+Grid size 4x4 - Success rate: 100.00%, Avg execution time: 0.0002 seconds
+Grid size 8x8 - Success rate: 100.00%, Avg execution time: 0.0004 seconds
+Grid size 12x12 - Success rate: 100.00%, Avg execution time: 0.0005 seconds
+Grid size 16x16 - Success rate: 100.00%, Avg execution time: 0.0005 seconds
+Grid size 20x20 - Success rate: 100.00%, Avg execution time: 0.0009 seconds
+Grid size 24x24 - Success rate: 100.00%, Avg execution time: 0.0008 seconds
+Grid size 32x32 - Success rate: 100.00%, Avg execution time: 0.0011 seconds
+Grid size 36x36 - Success rate: 100.00%, Avg execution time: 0.0010 seconds
